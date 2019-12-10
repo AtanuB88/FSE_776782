@@ -1,0 +1,66 @@
+2019-12-10 22:09:52.3263|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 19c2d4a6-07a8-426b-944f-5daa86d18f9d
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-10 22:09:52.3773|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 19c2d4a6-07a8-426b-944f-5daa86d18f9d
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-10 22:09:53.1708|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 19c2d4a6-07a8-426b-944f-5daa86d18f9d
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'iser1'.
+
+
+2019-12-10 22:10:51.4294|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: f1df8d85-fb3b-4637-bf34-b7211ffda01d
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-10 22:10:51.4494|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: f1df8d85-fb3b-4637-bf34-b7211ffda01d
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-10 22:10:51.8694|INFO|ProjectManager.Utils.LoggingUtility|Request ID: f1df8d85-fb3b-4637-bf34-b7211ffda01d
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'iser1'.
+
+
+2019-12-10 22:11:53.3049|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 47dba2ed-ee56-45a9-8c1b-3e0720990e38
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-10 22:11:53.3359|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 47dba2ed-ee56-45a9-8c1b-3e0720990e38
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+

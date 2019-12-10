@@ -1,0 +1,99 @@
+2019-12-06 14:14:48.7981|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: efd0b5a6-28fc-49c1-8b56-721ce81597f0
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 14:14:48.7981|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 84a4cf14-be61-4a04-b39b-86402f0e08a2
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 14:14:48.8321|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: efd0b5a6-28fc-49c1-8b56-721ce81597f0
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 14:14:48.8391|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 84a4cf14-be61-4a04-b39b-86402f0e08a2
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: The operation was canceled.
+
+
+2019-12-06 14:14:49.4775|INFO|ProjectManager.Utils.LoggingUtility|Request ID: efd0b5a6-28fc-49c1-8b56-721ce81597f0
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\PM'.
+
+
+2019-12-06 15:13:04.6760|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 86d5412e-9fc0-4c2c-9e9b-82652583684e
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 15:13:04.7220|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 86d5412e-9fc0-4c2c-9e9b-82652583684e
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 15:13:05.6310|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 86d5412e-9fc0-4c2c-9e9b-82652583684e
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\PM'.
+
+
+2019-12-06 15:46:24.6462|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: bfc670ce-dd37-4cf0-a9aa-acaab41ea7bb
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 15:46:24.6772|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: bfc670ce-dd37-4cf0-a9aa-acaab41ea7bb
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 22:09:12.6969|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 56d8b91b-7bbd-47f5-92ed-4597c8061bb6
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-06 22:09:12.7329|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 56d8b91b-7bbd-47f5-92ed-4597c8061bb6
+Method: GET
+URL: http://localhost:90/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
