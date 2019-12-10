@@ -8,7 +8,7 @@ namespace PerformanceTests
     public class TaskPerfTests
     {
         /// <summary>
-        /// performance test
+        /// performance test profile added
         /// </summary>
         [PerfBenchmark(NumberOfIterations = 1, RunMode = RunMode.Throughput,
         TestMode = TestMode.Test, SkipWarmups = true)]

@@ -10,6 +10,10 @@ namespace ProjectManager
 {
     public static class WebApiConfig
     {
+        /// <summary>
+        /// method to register route
+        /// </summary>
+        /// <param name="config"></param>
         public static void Register(HttpConfiguration config)
         {
             config.EnableCors();

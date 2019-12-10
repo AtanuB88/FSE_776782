@@ -46,7 +46,10 @@ namespace ProjectManager.BC
             }
 
         }
-
+        /// <summary>
+        /// method to retrieve parent task
+        /// </summary>
+        /// <returns></returns>
         public List<ParentTask> RetrieveParentTasks()
         {
             using (dbContext)
@@ -58,7 +61,11 @@ namespace ProjectManager.BC
                 }).ToList();
             }
         }
-
+        /// <summary>
+        /// method to insert task details
+        /// </summary>
+        /// <param name="task"></param>
+        /// <returns></returns>
 
         public int InsertTaskDetails(Task task)
         {
@@ -100,7 +107,11 @@ namespace ProjectManager.BC
                 return dbContext.SaveChanges();
             }
         }
-
+        /// <summary>
+        /// method to update task details
+        /// </summary>
+        /// <param name="task"></param>
+        /// <returns></returns>
         public int UpdateTaskDetails(Task task)
         {
             using (dbContext)
@@ -130,7 +141,11 @@ namespace ProjectManager.BC
             }
 
         }
-
+        /// <summary>
+        /// method to delete task details
+        /// </summary>
+        /// <param name="task"></param>
+        /// <returns></returns>
         public int DeleteTaskDetails(Task task)
         {
             using (dbContext)

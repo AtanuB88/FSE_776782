@@ -42,7 +42,11 @@ namespace ProjectManager.Controllers
             };
 
         }
-
+        /// <summary>
+        /// insert project method controller
+        /// </summary>
+        /// <param name="project"></param>
+        /// <returns></returns>
         [HttpPost]
         [ProjectManagerLogFilter]
         [ProjectManagerExceptionFilter]
@@ -108,7 +112,11 @@ namespace ProjectManager.Controllers
                 Data = projObjBC.UpdateProjectDetails(project)
             };
         }
-
+        /// <summary>
+        /// delete project controller
+        /// </summary>
+        /// <param name="project"></param>
+        /// <returns></returns>
         [HttpPost]
         [Route("api/project/delete")]
         public JSendResponse DeleteProjectDetails(Project project)

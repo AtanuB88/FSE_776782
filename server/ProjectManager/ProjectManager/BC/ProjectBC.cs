@@ -66,7 +66,11 @@ namespace ProjectManager.BC
                 return dbContext.SaveChanges();
             }
         }
-
+        /// <summary>
+        /// method to update project details
+        /// </summary>
+        /// <param name="project"></param>
+        /// <returns></returns>
         public int UpdateProjectDetails(MODEL.Project project)
         {
             using (dbContext)
@@ -96,6 +100,11 @@ namespace ProjectManager.BC
             }
 
         }
+        /// <summary>
+        /// method to delete project details
+        /// </summary>
+        /// <param name="project"></param>
+        /// <returns></returns>
         public int DeleteProjectDetails(MODEL.Project project)
         {
             using (dbContext)

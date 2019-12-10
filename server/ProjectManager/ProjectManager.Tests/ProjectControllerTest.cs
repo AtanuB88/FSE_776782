@@ -83,7 +83,9 @@ namespace ProjectManager.Test
             Assert.IsNotNull(result);
             Assert.IsNotNull((context.Users.Local[0]).Project_ID);
         }
-
+        /// <summary>
+        /// Test Update project
+        /// </summary>
         [TestMethod]
         public void TestUpdateProjects_Success()
         {

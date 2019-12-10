@@ -23,7 +23,11 @@ namespace ProjectManager.Controllers
         {
             taskObj = taskBc;
         }
-
+        /// <summary>
+        /// method to retrieve task by project ID
+        /// </summary>
+        /// <param name="projectId"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("api/task")]
         [ProjectManagerLogFilter]
@@ -90,7 +94,11 @@ namespace ProjectManager.Controllers
             };
 
         }
-
+        /// <summary>
+        /// method to update task details
+        /// </summary>
+        /// <param name="task"></param>
+        /// <returns></returns>
         [HttpPost]
         [ProjectManagerLogFilter]
         [ProjectManagerExceptionFilter]

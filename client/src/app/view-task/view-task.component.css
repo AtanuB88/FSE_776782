@@ -1,0 +1,25 @@
+.panel-heading {
+    background-color: darkslategray;
+    font-size: 15px;
+}
+
+.panel-body {
+    font-size: 1.25rem;
+}
+
+.control-label {
+    font-size: 1.25rem;
+}
+
+.form-control {
+    font-size: 1.25rem;
+}
+
+.btn-primary {
+    background-color: darkslategray;
+    font-size: 1.25rem;
+}
+
+.btn-default {
+    font-size: 1.25rem;
+}

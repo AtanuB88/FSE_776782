@@ -10,6 +10,10 @@ namespace ProjectManager.ActionFilters
 {
     public class ProjectManagerLogFilter : ActionFilterAttribute
     {
+        /// <summary>
+        /// on action executing method for controller
+        /// </summary>
+        /// <param name="filterContext"></param>
         public override void OnActionExecuting(HttpActionContext filterContext)
         {
             GlobalConfiguration.Configuration.Services.Replace(typeof(ITraceWriter), new LoggingUtility());

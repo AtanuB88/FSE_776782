@@ -14,6 +14,10 @@ namespace ProjectManager.ActionFilters
 {
     public class ProjectManagerExceptionFilter : ExceptionFilterAttribute
     {
+        /// <summary>
+        /// Acton filter for controller
+        /// </summary>
+        /// <param name="context"></param>
         public override void OnException(HttpActionExecutedContext context)
         {
             GlobalConfiguration.Configuration.Services.Replace(typeof(ITraceWriter), new LoggingUtility());

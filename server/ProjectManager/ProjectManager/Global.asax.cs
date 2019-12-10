@@ -9,6 +9,9 @@ namespace ProjectManager
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
+        /// <summary>
+        /// application start 
+        /// </summary>
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);

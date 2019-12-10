@@ -17,3 +17,25 @@
     height: 20px;
     margin: 0 10px 0 -30px;
 }
+
+.panel-heading {
+    background-color: darkslategray;
+    font-size: 1.5rem;
+}
+
+.control-label {
+    font-size: 15px;
+}
+
+.btn-primary {
+    background-color: darkslategray;
+    font-size: 1.1rem;
+}
+
+.btn-default {
+    font-size: 1.17rem;
+}
+
+.form-control {
+    font-size: 1.1rem;
+}

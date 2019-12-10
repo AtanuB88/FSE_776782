@@ -35,7 +35,11 @@ namespace ProjectManager.BC
             }
 
         }
-
+        /// <summary>
+        /// method to insert user details
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         public int InsertUserDetails(MODEL.User user)
         {
             using (dbContext)
@@ -73,7 +77,11 @@ namespace ProjectManager.BC
             }
 
         }
-
+        /// <summary>
+        /// method to delete user
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         public int DeleteUserDetails(MODEL.User user)
         {
             using (dbContext)

@@ -42,7 +42,11 @@ namespace ProjectManager.Controllers
                 Data = Users
             };
         }
-
+        /// <summary>
+        /// controller to insert user details
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost]
         [ProjectManagerLogFilter]
         [ProjectManagerExceptionFilter]
@@ -75,7 +79,11 @@ namespace ProjectManager.Controllers
             };
 
         }
-
+        /// <summary>
+        /// controller to update user details
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost]
         [Route("api/user/update")]
         [ProjectManagerLogFilter]

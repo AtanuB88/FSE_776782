@@ -1,26 +1,14 @@
 .modal-backdrop {
-
     filter: alpha(opacity=80);
-
     opacity: .8;
-
     position: fixed;
-
     top: 0px;
-
     bottom: 0px;
-
     left: 0px;
-
     right: 0px;
-
-    background-color: black;
-
+    background-color: darkslategray;
     display: none;
-
 }
-
- 
 
 .modal-backdrop-loading {
     width: 160px;
@@ -62,5 +50,48 @@
     top: 40%;
     width: 10rem;
     height: 10rem;
+}
 
+.navbar-inverse {
+    background-color: darkslategrey;
+}
+
+.top-actions-container {
+    float: right;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.top-action {
+    color: #ffffff;
+    display: flex;
+    font-size: 1.5rem;
+    padding: 0px 15px;
+    height: 50px;
+    align-items: center;
+    outline: none !important;
+}
+
+.top-action:hover {
+    background-color: rgb(37, 61, 61);
+}
+
+.navbar-brand-h2 {
+    position: relative;
+    top: 11px;
+    margin-left: 10%;
+    color: #ffffff;
+    display: inline-block;
+}
+
+.navbar-header {
+    position: relative;
+    right: 150px;
+}
+
+.topbar-container {
+    background-color: darkslategrey;
+    height: 50px;
 }

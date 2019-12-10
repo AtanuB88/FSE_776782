@@ -2,6 +2,7 @@
     content: "*";
     color: red;
 }
+
 .flex-container {
     display: flex;
 }
@@ -33,4 +34,43 @@ div.view-buttons {
     width: 20px;
     height: 20px;
     margin: 0 10px 0 -30px;
+}
+
+.panel-heading {
+    background-color: darkslategray;
+    font-size: 15px;
+}
+
+.form-horizontal {
+    font-size: 1.5rem;
+}
+
+.btn-primary {
+    background-color: darkslategray;
+    font-size: 15px;
+}
+
+.btn-default {
+    font-size: 15px;
+}
+
+.btn-danger {
+    font-size: 15px;
+}
+
+.form-control {
+    font-size: 15px;
+}
+
+table {
+    text-align: center;
+}
+
+th,
+tr {
+    font-size: 15px;
+}
+
+th {
+    cursor: pointer;
 }

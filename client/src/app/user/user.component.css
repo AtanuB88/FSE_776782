@@ -21,3 +21,25 @@ div.view-buttons {
     margin-bottom: 10px;
     display: block;
 }
+
+.panel-heading {
+    background-color: darkslategray;
+    font-size: 1.5rem;
+}
+
+.control-label {
+    font-size: 1.25rem;
+}
+
+.form-control {
+    font-size: 1.1rem;
+}
+
+.btn-primary {
+    background-color: darkslategray;
+    font-size: 1.1rem;
+}
+
+.btn-default {
+    font-size: 1.17rem;
+}
